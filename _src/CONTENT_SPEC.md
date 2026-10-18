@@ -57,7 +57,7 @@ Frasi corte. Numeri arrotondati. Nessuna fonte inventata; i dati devono essere q
 ## Link interni
 Usare solo URL relativi tra questi:
 /ricerche-scuola/ /giardino-balcone/ /birdwatching-famiglie/ /libri-giochi/ /dove-vederli/ /uccelli-in-casa/
-e gli articoli: /ricerche-scuola/rondine/ /ricerche-scuola/gufo/ /ricerche-scuola/fenicottero/ /ricerche-scuola/migrazione-uccelli/ /ricerche-scuola/come-fare-ricerca-uccelli/
+e gli articoli: /ricerche-scuola/rondine/ /ricerche-scuola/gufo/ /ricerche-scuola/fenicottero/ /ricerche-scuola/migrazione-uccelli/ /ricerche-scuola/come-fare-ricerca-uccelli/ /ricerche-scuola/passero/ /ricerche-scuola/merlo/ /ricerche-scuola/pettirosso/ /ricerche-scuola/cicogna/ /ricerche-scuola/aquila-reale/ /giardino-balcone/mangiatoia-da-finestra-ventose/
 /giardino-balcone/guida-mangiatoia-uccelli-giardino-balcone/ /birdwatching-famiglie/binocolo-birdwatching-bambini-famiglie/ /libri-giochi/libri-uccelli-bambini/ /dove-vederli/dove-vedere-uccelli-italia-bambini/ /uccelli-in-casa/canarino-cocorita-pappagallino-guida/
 
 ## Lingua
