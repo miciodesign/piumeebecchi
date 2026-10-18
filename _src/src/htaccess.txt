@@ -16,3 +16,6 @@ ExpiresByType image/svg+xml "access plus 1 month"
 ExpiresByType image/png "access plus 1 month"
 </IfModule>
 AddDefaultCharset UTF-8
+# non servire i sorgenti
+RedirectMatch 404 ^/_src/.*$
+RedirectMatch 404 ^/\.git.*$
