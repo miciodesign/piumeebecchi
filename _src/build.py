@@ -65,7 +65,7 @@ def head(title, desc, url, og_type="website", image="og-default.png"):
 <meta property="og:title" content="{html.escape(full)}">
 <meta property="og:description" content="{html.escape(desc)}">
 <meta property="og:url" content="{SITE['url']}{url}">
-<meta property="og:image" content="{SITE['url']}/assets/img/{image}">
+<meta property="og:image" content="{image if image.startswith('http') else SITE['url']+'/assets/img/'+image}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -120,6 +120,8 @@ def footer():
 AFF_NOTE = '<p class="aff-note">Alcuni link in questa pagina sono di affiliazione: se compri tramite questi link riceviamo una piccola commissione, senza costi per te. <a href="/affiliazione/">Come funziona</a>.</p>'
 
 # ---------- content loading ----------
+PHOTOS = json.loads((ROOT/"photos.json").read_text(encoding="utf-8")) if (ROOT/"photos.json").exists() else {}
+
 def load_articles():
     arts = []
     for f in sorted(CONTENT.glob("*/*.html")):
@@ -134,6 +136,7 @@ def load_articles():
         meta["category"] = meta.get("category") or f.parent.name
         meta["url"] = f"/{meta['category']}/{meta['slug']}/"
         meta["image"] = meta.get("image") or CAT[meta["category"]]["img"]
+        meta["photo"] = PHOTOS.get(meta["slug"])
         meta["minutes"] = meta.get("minutes") or max(3, round(len(re.sub(r'<[^>]+>','',meta['body']).split())/180))
         arts.append(meta)
     arts.sort(key=lambda a: (a["date"], a["slug"]), reverse=True)
@@ -166,8 +169,11 @@ def add_ids_and_toc(body):
 def card(a, big=False):
     c = CAT[a["category"]]
     kind = "Ricerca" if a.get("type") == "ricerca" else "Guida"
+    ph = a.get("photo")
+    img = (f'<img class="photo" src="{ph["url"]}" alt="" loading="lazy" onerror="this.onerror=null;this.classList.remove(\'photo\');this.src=\'/assets/img/{a["image"]}\'">'
+           if ph else f'<img src="/assets/img/{a["image"]}" alt="" loading="lazy">')
     return f"""<article class="card{' big' if big else ''}">
-  <a class="card-img" href="{a['url']}"><img src="/assets/img/{a['image']}" alt="" loading="lazy"></a>
+  <a class="card-img" href="{a['url']}">{img}</a>
   <div class="card-body">
     <p class="meta"><a href="/{c['slug']}/">{c['name']}</a> · {kind} · {a['minutes']} min</p>
     <h3><a href="{a['url']}">{a['title']}</a></h3>
@@ -203,14 +209,21 @@ def build_article(a, arts):
         "datePublished":a["date"],"dateModified":a["date"],"inLanguage":"it",
         "author":{"@type":"Organization","name":SITE["name"]},"publisher":{"@type":"Organization","name":SITE["name"]},
         "mainEntityOfPage":SITE["url"]+a["url"]}, ensure_ascii=False)
-    page = head(a["title"], a["description"], a["url"], "article", a["image"].replace(".svg",".png") if False else a["image"]) + f"""
+    ph = a.get("photo")
+    if ph:
+        hero = (f'<figure class="hero foto"><img src="{ph["url"]}" alt="{html.escape(ph["caption"])}" '
+                f'onerror="this.onerror=null;this.parentNode.classList.remove(\'foto\');this.src=\'/assets/img/{a["image"]}\'">'
+                f'<figcaption>{ph["caption"]}. Foto: <a href="{ph["page"]}" rel="noopener">Wikimedia Commons</a> (autore e licenza sulla pagina del file).</figcaption></figure>')
+    else:
+        hero = f'<figure class="hero"><img src="/assets/img/{a["image"]}" alt="{html.escape(a["title"])}"></figure>'
+    page = head(a["title"], a["description"], a["url"], "article", ph["url"] if ph else a["image"]) + f"""
 <article class="article wrap-narrow{' ricerca' if is_ric else ''}">
   <p class="crumbs"><a href="/">Home</a> › <a href="/{c['slug']}/">{c['name']}</a></p>
   <h1>{a['title']}</h1>
   <p class="lead">{a['description']}</p>
   <p class="byline">{byline}</p>
   {'' if is_ric else AFF_NOTE}
-  <figure class="hero"><img src="/assets/img/{a['image']}" alt="{html.escape(a['title'])}"></figure>
+  {hero}
   {toc}
   <div class="prose">
   {body}

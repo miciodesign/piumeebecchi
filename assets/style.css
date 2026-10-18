@@ -162,3 +162,9 @@ figure.hero img{max-height:260px;margin:0 auto}
 .site-footer a{color:#e9f1ec}
 .site-footer .muted{color:#9fb3a8}
 .site-footer .copy{border-top:1px solid #2b5a45;margin-top:28px;padding-top:18px;font-size:.82rem;color:#9fb3a8}
+
+/* foto */
+figure.hero.foto{padding:0;overflow:hidden;background:var(--carta);border:1px solid var(--linea)}
+figure.hero.foto img{max-height:460px;width:100%;object-fit:cover;border-radius:20px 20px 0 0}
+figure.hero.foto figcaption{font-size:.8rem;color:var(--muted);padding:8px 14px;text-align:left}
+.card-img img.photo{object-fit:cover;padding:0}
