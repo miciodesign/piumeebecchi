@@ -1,46 +1,46 @@
 {
  "rondine": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/1024px-Rauchschwalbe_Hirundo_rustica.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/960px-Rauchschwalbe_Hirundo_rustica.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
   "caption": "Una rondine posata su un filo"
  },
  "gufo": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Long_Eared_Owl_-_Asio_otus_%2850345975341%29.jpg/1024px-Long_Eared_Owl_-_Asio_otus_%2850345975341%29.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Long_Eared_Owl_-_Asio_otus_%2850345975341%29.jpg/960px-Long_Eared_Owl_-_Asio_otus_%2850345975341%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Long_Eared_Owl_-_Asio_otus_%2850345975341%29.jpg",
   "caption": "Un gufo comune con i suoi ciuffi sulla testa"
  },
  "fenicottero": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Greater_Flamingo_%28Phoenicopterus_roseus%29_%288521269688%29.jpg/1024px-Greater_Flamingo_%28Phoenicopterus_roseus%29_%288521269688%29.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Greater_Flamingo_%28Phoenicopterus_roseus%29_%288521269688%29.jpg/960px-Greater_Flamingo_%28Phoenicopterus_roseus%29_%288521269688%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Greater_Flamingo_%28Phoenicopterus_roseus%29_%288521269688%29.jpg",
   "caption": "Un fenicottero rosa"
  },
  "passero": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Passer_domesticus_male_%2815%29.jpg/1024px-Passer_domesticus_male_%2815%29.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Passer_domesticus_male_%2815%29.jpg/960px-Passer_domesticus_male_%2815%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Passer_domesticus_male_%2815%29.jpg",
   "caption": "Un passero maschio"
  },
  "merlo": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Common_blackbird_%28Turdus_merula%29_male%2C_young_adult.jpg/1024px-Common_blackbird_%28Turdus_merula%29_male%2C_young_adult.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Common_blackbird_%28Turdus_merula%29_male%2C_young_adult.jpg/960px-Common_blackbird_%28Turdus_merula%29_male%2C_young_adult.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Common_blackbird_%28Turdus_merula%29_male%2C_young_adult.jpg",
   "caption": "Un merlo maschio: piumaggio nero e becco giallo"
  },
  "pettirosso": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/European_Robin_%28Erithacus_rubecula%29_with_mealworm.jpeg/1024px-European_Robin_%28Erithacus_rubecula%29_with_mealworm.jpeg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/European_Robin_%28Erithacus_rubecula%29_with_mealworm.jpeg/960px-European_Robin_%28Erithacus_rubecula%29_with_mealworm.jpeg",
   "page": "https://commons.wikimedia.org/wiki/File:European_Robin_%28Erithacus_rubecula%29_with_mealworm.jpeg",
   "caption": "Un pettirosso con un verme della farina nel becco"
  },
  "cicogna": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ciconia_ciconia_nest_Kinice.jpg/1024px-Ciconia_ciconia_nest_Kinice.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ciconia_ciconia_nest_Kinice.jpg/960px-Ciconia_ciconia_nest_Kinice.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Ciconia_ciconia_nest_Kinice.jpg",
   "caption": "Un nido di cicogna bianca su un palo"
  },
  "aquila-reale": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/1024px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/960px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
   "caption": "Un'aquila reale in volo"
  },
  "migrazione-uccelli": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Grus_grus_flight.jpg/1024px-Grus_grus_flight.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Grus_grus_flight.jpg/960px-Grus_grus_flight.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Grus_grus_flight.jpg",
   "caption": "Gru in volo durante la migrazione"
  }
