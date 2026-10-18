@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img">
+<rect width="400" height="300" rx="28" fill="#e4efe7"/>
+
+<path d="M200 20 v40" stroke="#153627" stroke-width="4"/>
+<polygon points="200,55 110,120 290,120" fill="#e07a2f"/>
+<rect x="125" y="118" width="150" height="80" rx="6" fill="#ffffff" stroke="#1f4d3a" stroke-width="4"/>
+<rect x="160" y="128" width="80" height="48" rx="4" fill="#153627"/>
+<rect x="110" y="195" width="180" height="16" rx="6" fill="#1f4d3a"/>
+<rect x="140" y="188" width="120" height="10" rx="3" fill="#c89b5a"/>
+<circle cx="150" cy="192" r="3" fill="#1d2520"/><circle cx="162" cy="192" r="3" fill="#1d2520"/><circle cx="174" cy="192" r="3" fill="#1d2520"/><circle cx="186" cy="192" r="3" fill="#1d2520"/><circle cx="198" cy="192" r="3" fill="#1d2520"/><circle cx="210" cy="192" r="3" fill="#1d2520"/><circle cx="222" cy="192" r="3" fill="#1d2520"/><circle cx="234" cy="192" r="3" fill="#1d2520"/><circle cx="246" cy="192" r="3" fill="#1d2520"/>
+<g transform="translate(90,210) scale(-0.55,0.55)">
+<ellipse cx="0" cy="0" rx="42" ry="30" fill="#f5c518"/>
+<circle cx="36" cy="-18" r="20" fill="#f5c518"/>
+<path d="M-10 -8 q-30 -30 -5 -40 q10 25 28 32 z" fill="#e07a2f"/>
+<path d="M-40 6 l-28 -14 l6 24 z" fill="#e07a2f"/>
+<polygon points="54,-18 72,-12 54,-8" fill="#e07a2f"/>
+<circle cx="42" cy="-22" r="3.5" fill="#1d2520"/>
+<path d="M-8 28 l-4 14 M4 28 l4 14" stroke="#e07a2f" stroke-width="3" stroke-linecap="round"/>
+</g>
+<g transform="translate(305,215) scale(0.55,0.55)">
+<ellipse cx="0" cy="0" rx="42" ry="30" fill="#6fb3d6"/>
+<circle cx="36" cy="-18" r="20" fill="#6fb3d6"/>
+<path d="M-10 -8 q-30 -30 -5 -40 q10 25 28 32 z" fill="#1f4d3a"/>
+<path d="M-40 6 l-28 -14 l6 24 z" fill="#1f4d3a"/>
+<polygon points="54,-18 72,-12 54,-8" fill="#e07a2f"/>
+<circle cx="42" cy="-22" r="3.5" fill="#1d2520"/>
+<path d="M-8 28 l-4 14 M4 28 l4 14" stroke="#e07a2f" stroke-width="3" stroke-linecap="round"/>
+</g>
+<ellipse cx="200" cy="270" rx="150" ry="14" fill="#1f4d3a" opacity=".35"/>
+
+</svg>
