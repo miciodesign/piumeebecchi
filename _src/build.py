@@ -93,7 +93,7 @@ def footer():
     <div>
       <a class="logo" href="/">Piume <em>e</em> Becchi</a>
       <p>Il mondo degli uccelli spiegato a bambini, genitori e insegnanti. Schede per la scuola, guide per osservarli, prodotti scelti con cura.</p>
-      <p class="muted">Non siamo veterinari né ornitologi professionisti: per un uccello ferito o malato rivolgiti a un centro di recupero o a un veterinario.</p>
+      <p class="muted">Non siamo veterinari né ornitologi professionisti: per un uccello ferito o malato rivolgiti a un centro di recupero o a un veterinario (<a href="/aiuto-uccello-ferito/">chi chiamare</a>).</p>
     </div>
     <div>
       <h4>Categorie</h4>
@@ -102,6 +102,7 @@ def footer():
     <div>
       <h4>Piume e Becchi</h4>
       <ul>
+        <li><a href="/aiuto-uccello-ferito/"><strong>Uccello ferito? Cosa fare</strong></a></li>
         <li><a href="/chi-siamo/">Chi siamo</a></li>
         <li><a href="/contatti/">Contatti</a></li>
         <li><a href="/affiliazione/">Come ci sosteniamo</a></li>
@@ -299,6 +300,54 @@ def build_home(arts):
 
 def build_static(arts):
     pages = {
+        "/aiuto-uccello-ferito/": ("Uccello ferito o caduto dal nido: cosa fare e chi chiamare", "Cosa fare se trovi un uccello ferito, un pulcino caduto dal nido o un rondone a terra: i gesti giusti, quelli da evitare e i numeri e le associazioni a cui rivolgersi in Italia.", """
+<h1>Uccello ferito o caduto dal nido: cosa fare e chi chiamare</h1>
+<p class="lead">La regola in una riga: <strong>non curarlo in casa</strong>. Un uccello selvatico va messo al sicuro e affidato in fretta a chi ha le competenze e i permessi per aiutarlo. Qui trovi i gesti giusti e i contatti.</p>
+<div class="prose">
+<div class="box box-gialla"><h3>Prima di tutto: è davvero in difficoltà?</h3>
+<p>In primavera e in estate molti "pulcini caduti" sono in realtà <strong>giovani che hanno appena lasciato il nido</strong>: hanno le piume, saltellano, i genitori sono vicini e li nutrono a terra per qualche giorno. Se il piccolo è piumato, vispo e non ferito, <strong>lascialo dove si trova</strong> (al massimo spostalo su un ramo o un cespuglio vicino, lontano da gatti e strada) e osserva da lontano per un'ora. Se invece è <strong>implume</strong> (pelle nuda, occhi chiusi), ferito, sanguinante, con un'ala che pende, oppure è stato preso da un gatto, ha bisogno di aiuto.</p></div>
+
+<h2>Cosa fare, passo per passo</h2>
+<ol>
+<li><strong>Mettilo al sicuro.</strong> Prendilo con delicatezza con un panno o con le mani (lavale dopo), senza stringere il petto: gli uccelli respirano con il torace.</li>
+<li><strong>Una scatola di cartone</strong> con fori per l'aria, fondo coperto da carta assorbente o un panno, chiusa e <strong>al buio</strong>, in un posto tranquillo e tiepido. Il buio lo calma più di qualunque altra cosa.</li>
+<li><strong>Niente cibo, niente acqua</strong> nel becco: un uccello stressato o ferito può soffocare, e il cibo sbagliato (pane, latte) gli fa male. Solo i centri sanno cosa dargli.</li>
+<li><strong>Chiama subito</strong> uno dei contatti qui sotto. Prima arriva al centro, più possibilità ha. Non aspettare "per vedere se si riprende".</li>
+<li><strong>Non tenerlo.</strong> Oltre a essere pericoloso per lui, detenere uccelli selvatici in Italia è vietato dalla legge (L. 157/1992).</li>
+</ol>
+
+<h2>Chi chiamare</h2>
+<table><thead><tr><th>Chi</th><th>Quando</th><th>Come</th></tr></thead><tbody>
+<tr><td><strong>1515 · Carabinieri Forestali</strong></td><td>Numero nazionale per emergenze ambientali e fauna selvatica, attivo sempre. Sanno indirizzarti al centro di recupero (CRAS) competente per la tua zona.</td><td>Telefono: <strong>1515</strong></td></tr>
+<tr><td><strong>CRAS – Centro Recupero Animali Selvatici</strong></td><td>Sono i centri autorizzati che curano e rilasciano gli animali selvatici. Ce n'è almeno uno per provincia o regione; molti sono gestiti da LIPU, WWF, ENPA, province o università.</td><td>Cerca "CRAS" + nome della tua provincia, oppure chiedi al 1515, alla Polizia provinciale o al Comune.</td></tr>
+<tr><td><strong>LIPU</strong></td><td>La Lega Italiana Protezione Uccelli gestisce centri di recupero e oasi in tutta Italia; sul sito c'è l'elenco dei centri e consigli pratici.</td><td><a href="https://www.lipu.it/" rel="noopener">lipu.it</a></td></tr>
+<tr><td><strong>WWF Italia</strong></td><td>Oasi e alcuni centri di recupero (es. Valpredina in Lombardia).</td><td><a href="https://www.wwf.it/" rel="noopener">wwf.it</a></td></tr>
+<tr><td><strong>ENPA</strong></td><td>Ente Nazionale Protezione Animali: sezioni locali, alcune con centri fauna selvatica e servizio di soccorso.</td><td><a href="https://www.enpa.it/" rel="noopener">enpa.it</a></td></tr>
+<tr><td><strong>Veterinario</strong></td><td>Se il centro è lontano o chiuso, un veterinario può fare il primo soccorso; chiedi se tratta animali selvatici o "esotici".</td><td>Il più vicino</td></tr>
+</tbody></table>
+
+<h2>Casi particolari</h2>
+<dl>
+<dt>Rondone a terra</dt><dd>Il rondone non riesce a decollare da terra. Se è adulto e integro, prova a tenerlo sul palmo aperto, in alto, in uno spazio aperto: se vola, era solo caduto. Se non parte in pochi secondi, scatola e centro di recupero.</dd>
+<dt>Uccello che ha sbattuto contro un vetro</dt><dd>Spesso è solo stordito. Scatola al buio per un'ora, poi riapri all'aperto: se vola via, bene; se no, centro di recupero. Per evitare che ricapiti, leggi i consigli sui vetri nella <a href="/giardino-balcone/guida-mangiatoia-uccelli-giardino-balcone/">guida alle mangiatoie</a>.</dd>
+<dt>Preso da un gatto</dt><dd>Anche senza ferite visibili, la saliva del gatto causa infezioni mortali in 24-48 ore. Va sempre portato a un centro, anche se sembra stare bene.</dd>
+<dt>Nido caduto con i pulcini</dt><dd>Se riesci, rimettilo (o un cestino con i pulcini dentro) nello stesso albero, in alto: i genitori tornano, l'odore umano non li allontana. Se non è possibile, centro di recupero.</dd>
+<dt>Piccione o gabbiano in città</dt><dd>Valgono le stesse regole. Alcuni centri non accettano piccioni: chiedi prima, oppure rivolgiti all'ENPA o a un'associazione locale.</dd>
+</dl>
+
+<h2>Le associazioni da conoscere</h2>
+<ul>
+<li><a href="https://www.lipu.it/" rel="noopener">LIPU</a> – protezione degli uccelli, oasi visitabili, attività per le scuole.</li>
+<li><a href="https://www.wwf.it/" rel="noopener">WWF Italia</a> – oasi naturalistiche e campagne per la biodiversità.</li>
+<li><a href="https://www.ebnitalia.it/" rel="noopener">EBN Italia</a> – l'associazione dei birdwatcher italiani: guide, forum, uscite.</li>
+<li><a href="https://www.legambiente.it/" rel="noopener">Legambiente</a> – circoli locali, pulizie di fiumi e spiagge, progetti scolastici.</li>
+<li><a href="https://www.enpa.it/" rel="noopener">ENPA</a> – protezione animali, guardie zoofile, soccorso.</li>
+<li><a href="https://www.isprambiente.gov.it/" rel="noopener">ISPRA</a> – l'istituto pubblico che studia la fauna; dati ufficiali e Atlante degli uccelli nidificanti.</li>
+</ul>
+
+<div class="box box-verde"><h3>Per la scuola</h3><p>Questa pagina si può stampare e appendere in classe. Per capire perché i pulcini cadono dal nido e come crescono, leggi le schede sulla <a href="/ricerche-scuola/rondine/">rondine</a> e sul <a href="/ricerche-scuola/merlo/">merlo</a>; per aiutare gli uccelli tutto l'anno, la <a href="/giardino-balcone/guida-mangiatoia-uccelli-giardino-balcone/">guida alle mangiatoie e alle casette-nido</a>.</p></div>
+<p class="muted">Non siamo veterinari: questa pagina spiega come mettere in sicurezza un animale e a chi affidarlo, non come curarlo. I numeri e i riferimenti sono quelli pubblici delle associazioni; verifica sempre orari e disponibilità del centro prima di partire.</p>
+</div>"""),
         "/chi-siamo/": ("Chi siamo", "Chi scrive Piume e Becchi e perché.", """
 <h1>Chi siamo</h1>
 <p class="lead">Piume e Becchi nasce da una cosa semplice: una ricerca sul gufo da fare per lunedì e nessun sito che la spiegasse bene a un bambino di nove anni.</p>
@@ -365,7 +414,7 @@ def build_static(arts):
         write(url, head(title, desc, url) + f'<article class="article wrap-narrow"><p class="crumbs"><a href="/">Home</a> › {title}</p>{body}</article>' + footer())
 
 def build_sitemap(arts):
-    urls = ["/"] + [f"/{c['slug']}/" for c in CATEGORIES] + [a["url"] for a in arts] + ["/chi-siamo/","/contatti/","/affiliazione/","/privacy/"]
+    urls = ["/"] + [f"/{c['slug']}/" for c in CATEGORIES] + [a["url"] for a in arts] + ["/aiuto-uccello-ferito/","/chi-siamo/","/contatti/","/affiliazione/","/privacy/"]
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     xml += "".join(f"  <url><loc>{SITE['url']}{u}</loc><lastmod>{TODAY.isoformat()}</lastmod></url>\n" for u in urls) + "</urlset>\n"
     (DIST/"sitemap.xml").write_text(xml, encoding="utf-8")
