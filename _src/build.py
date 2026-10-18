@@ -382,6 +382,8 @@ def main():
     build_static(arts)
     build_sitemap(arts)
     shutil.copy(SRC/"htaccess.txt", DIST/".htaccess")
+    for extra in SRC.glob("root/*"):
+        shutil.copy(extra, DIST/extra.name)
     (DIST/"404.html").write_text(head("Pagina non trovata","Questa pagina non esiste.","/404.html")+'<article class="article wrap-narrow"><p class="crumbs"><a href="/">Home</a></p><h1>Pagina non trovata</h1><p class="lead">Questa pagina è volata via. Torna alla <a href="/">home</a> o scegli una sezione dal menu.</p></article>'+footer(), encoding="utf-8")
     print(f"OK: {len(arts)} articoli, {len(CATEGORIES)} categorie -> {DIST}")
 
