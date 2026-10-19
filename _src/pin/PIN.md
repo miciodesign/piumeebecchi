@@ -89,6 +89,18 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Descrizione**: Scheda sulla cicogna bianca (Ciconia ciconia) per bambini di 3ª, 4ª e 5ª: com'è fatta, il nido enorme sui tetti, il viaggio in Africa, il ritorno in Italia, la leggenda dei bambini, curiosità e domande. #uccelli #bambini #scuolaprimaria #ricercascuola
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/cicogna/
 
+### cinciallegra
+- **Immagine**: pin/cinciallegra.png
+- **Titolo**: La cinciallegra: ricerca per la scuola primaria
+- **Descrizione**: Scheda sulla cinciallegra (Parus major) per bambini di 3ª, 4ª e 5ª: com'è fatta, dove vive, cosa mangia, il nido nella casetta con il foro da 32 mm, curiosità e domande di ripasso. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/cinciallegra/
+
+### civetta
+- **Immagine**: pin/civetta.png
+- **Titolo**: La civetta: ricerca per la scuola primaria
+- **Descrizione**: Scheda sulla civetta (Athene noctua) per bambini di 3ª, 4ª e 5ª: com'è fatta, dove vive, cosa mangia, il nido, le differenze con gufo e barbagianni, perché era il simbolo di Atena, curiosità e domande. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/civetta/
+
 ### migrazione-uccelli
 - **Immagine**: pin/migrazione-uccelli.png
 - **Titolo**: La migrazione degli uccelli: ricerca per la scuola primaria
@@ -103,6 +115,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 
 
 ## Bacheca: Uccelli in giardino e sul balcone
+
+### cosa-dare-da-mangiare-uccelli-inverno
+- **Immagine**: pin/cosa-dare-da-mangiare-uccelli-inverno.png
+- **Titolo**: Cosa dare da mangiare agli uccelli in inverno (e cosa no): semi, palline di grasso, frutta ed errori
+- **Descrizione**: Il cibo giusto per cince, pettirossi e merli da novembre a marzo: semi di girasole, palline di grasso senza rete, arachidi, frutta. Quanto darne, le marche affidabili e gli errori che fanno più danno che bene. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/giardino-balcone/cosa-dare-da-mangiare-uccelli-inverno/
 
 ### mangiatoia-da-finestra-ventose
 - **Immagine**: pin/mangiatoia-da-finestra-ventose.png

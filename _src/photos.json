@@ -43,5 +43,15 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Grus_grus_flight.jpg/960px-Grus_grus_flight.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Grus_grus_flight.jpg",
   "caption": "Gru in volo durante la migrazione"
+ },
+ "cinciallegra": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Parus_major_Luc_Viatour.jpg/960px-Parus_major_Luc_Viatour.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Parus_major_Luc_Viatour.jpg",
+  "caption": "Una cinciallegra: testa nera, guance bianche e petto giallo con la riga nera"
+ },
+ "civetta": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Athene_noctua_%28portrait%29.jpg/960px-Athene_noctua_%28portrait%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Athene_noctua_%28portrait%29.jpg",
+  "caption": "Una civetta con i grandi occhi gialli"
  }
 }

@@ -13,9 +13,9 @@ Ritmo: **3 articoli a settimana** (di norma 2 schede-ricerca + 1 guida), pubblic
 ## Coda (spuntare con [x] e data quando pubblicato)
 
 ### Settimana 1
-- [ ] S · ricerche-scuola · `cinciallegra` · La cinciallegra: ricerca per la scuola primaria (Parus major; prima ospite delle mangiatoie; casetta-nido con foro 32 mm)
-- [ ] S · ricerche-scuola · `civetta` · La civetta: ricerca per la scuola primaria (Athene noctua; differenza con gufo e barbagianni; simbolo di Atena)
-- [ ] G · giardino-balcone · `cosa-dare-da-mangiare-uccelli-inverno` · Cosa dare da mangiare agli uccelli in inverno (e cosa no): semi, palline di grasso, frutta, errori comuni
+- [x] 2026-10-19 · S · ricerche-scuola · `cinciallegra` · La cinciallegra: ricerca per la scuola primaria (Parus major; prima ospite delle mangiatoie; casetta-nido con foro 32 mm)
+- [x] 2026-10-19 · S · ricerche-scuola · `civetta` · La civetta: ricerca per la scuola primaria (Athene noctua; differenza con gufo e barbagianni; simbolo di Atena)
+- [x] 2026-10-19 · G · giardino-balcone · `cosa-dare-da-mangiare-uccelli-inverno` · Cosa dare da mangiare agli uccelli in inverno (e cosa no): semi, palline di grasso, frutta, errori comuni
 
 ### Settimana 2
 - [ ] S · ricerche-scuola · `pinguino` · Il pinguino imperatore: ricerca per la scuola primaria (Aptenodytes forsteri; non vola, nuota; l'uovo sulle zampe del padre)
