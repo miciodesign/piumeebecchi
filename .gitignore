@@ -1,3 +1,7 @@
 _src/dist/
 _src/*.zip
 *.zip
+_src/video/s[0-9]*.*
+_src/video/c[0-9]*.mp4
+_src/video/f[0-9]*.png
+_src/video/l.txt
