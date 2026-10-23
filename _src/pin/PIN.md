@@ -77,6 +77,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Descrizione**: Scheda sul pettirosso (Erithacus rubecula) per bambini di 3ª, 4ª e 5ª: com'è fatto, dove vive, cosa mangia, il nido, il canto d'inverno, la mangiatoia, curiosità e domande di ripasso. #uccelli #bambini #scuolaprimaria #ricercascuola
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/pettirosso/
 
+### pinguino
+- **Immagine**: pin/pinguino.png
+- **Titolo**: Il pinguino imperatore: ricerca per la scuola primaria
+- **Descrizione**: Scheda sul pinguino imperatore (Aptenodytes forsteri) per bambini di 3ª, 4ª e 5ª: com'è fatto, dove vive, cosa mangia, l'uovo sulle zampe del papà, curiosità e domande. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/pinguino/
+
 ### aquila-reale
 - **Immagine**: pin/aquila-reale.png
 - **Titolo**: L'aquila reale: ricerca per la scuola primaria

@@ -53,5 +53,10 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Athene_noctua_%28portrait%29.jpg/960px-Athene_noctua_%28portrait%29.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Athene_noctua_%28portrait%29.jpg",
   "caption": "Una civetta con i grandi occhi gialli"
+ },
+ "pinguino": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Manchot_empereur_-_Emperor_Penguin_-_Aptenodytes_forsteri.jpg/960px-Manchot_empereur_-_Emperor_Penguin_-_Aptenodytes_forsteri.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Manchot_empereur_-_Emperor_Penguin_-_Aptenodytes_forsteri.jpg",
+  "caption": "Un pinguino imperatore in Antartide"
  }
 }

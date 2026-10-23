@@ -18,7 +18,7 @@ Ritmo: **3 articoli a settimana** (di norma 2 schede-ricerca + 1 guida), pubblic
 - [x] 2026-10-19 · G · giardino-balcone · `cosa-dare-da-mangiare-uccelli-inverno` · Cosa dare da mangiare agli uccelli in inverno (e cosa no): semi, palline di grasso, frutta, errori comuni
 
 ### Settimana 2
-- [ ] S · ricerche-scuola · `pinguino` · Il pinguino imperatore: ricerca per la scuola primaria (Aptenodytes forsteri; non vola, nuota; l'uovo sulle zampe del padre)
+- [x] 2026-10-23 S · ricerche-scuola · `pinguino` · Il pinguino imperatore: ricerca per la scuola primaria (Aptenodytes forsteri; non vola, nuota; l'uovo sulle zampe del padre)
 - [ ] S · ricerche-scuola · `pappagallo` · Il pappagallo: ricerca per la scuola primaria (gli Psittaciformi in generale; perché "parla"; ara, cacatua, cocorita; foreste tropicali; in pericolo per il commercio)
 - [ ] G · libri-giochi · `giochi-educativi-uccelli-bambini` · Giochi e kit educativi sugli uccelli per bambini: memory, puzzle, casetta da costruire, bingo del birdwatching
 
