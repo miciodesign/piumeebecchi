@@ -12,6 +12,11 @@ Ritmo: **3 articoli a settimana** (di norma 2 schede-ricerca + 1 guida), pubblic
 
 ## Coda (spuntare con [x] e data quando pubblicato)
 
+### Priorità (dai dati Search Console del 25 ott: la gente cerca "uccelli per casa / da appartamento"; fare PRIMA queste tre, poi proseguire con le settimane)
+- [ ] G · uccelli-in-casa · `uccelli-da-appartamento-quali-scegliere` · Quali uccelli si possono tenere in appartamento (e quali no): canarino, cocorita, diamante mandarino, inseparabile; spazio, rumore, tempo richiesto, costi; solo specie domestiche allevate (mai selvatici); linkare la guida-pilastro canarino-cocorita-pappagallino-guida
+- [ ] G · uccelli-in-casa · `cocorita-cosa-serve-prima-settimana` · Arriva una cocorita: cosa serve davvero la prima settimana (lista della spesa, ambientamento, errori da evitare)
+- [ ] S · ricerche-scuola · `pappagallo` · Il pappagallo: ricerca per la scuola primaria (gli Psittaciformi in generale; perché "parla"; ara, cacatua, cocorita; foreste tropicali; in pericolo per il commercio)
+
 ### Settimana 1
 - [x] 2026-10-19 · S · ricerche-scuola · `cinciallegra` · La cinciallegra: ricerca per la scuola primaria (Parus major; prima ospite delle mangiatoie; casetta-nido con foro 32 mm)
 - [x] 2026-10-19 · S · ricerche-scuola · `civetta` · La civetta: ricerca per la scuola primaria (Athene noctua; differenza con gufo e barbagianni; simbolo di Atena)
@@ -19,7 +24,6 @@ Ritmo: **3 articoli a settimana** (di norma 2 schede-ricerca + 1 guida), pubblic
 
 ### Settimana 2
 - [x] 2026-10-23 S · ricerche-scuola · `pinguino` · Il pinguino imperatore: ricerca per la scuola primaria (Aptenodytes forsteri; non vola, nuota; l'uovo sulle zampe del padre)
-- [ ] S · ricerche-scuola · `pappagallo` · Il pappagallo: ricerca per la scuola primaria (gli Psittaciformi in generale; perché "parla"; ara, cacatua, cocorita; foreste tropicali; in pericolo per il commercio)
 - [ ] G · libri-giochi · `giochi-educativi-uccelli-bambini` · Giochi e kit educativi sugli uccelli per bambini: memory, puzzle, casetta da costruire, bingo del birdwatching
 
 ### Settimana 3
@@ -30,7 +34,6 @@ Ritmo: **3 articoli a settimana** (di norma 2 schede-ricerca + 1 guida), pubblic
 ### Settimana 4
 - [ ] S · ricerche-scuola · `colibri` · Il colibrì: ricerca per la scuola primaria (Trochilidae; l'uccello più piccolo; batte le ali 50 volte al secondo; vola all'indietro; Americhe)
 - [ ] S · ricerche-scuola · `gheppio` · Il gheppio: ricerca per la scuola primaria (Falco tinnunculus; lo "spirito santo"; caccia in città; nido su edifici)
-- [ ] G · uccelli-in-casa · `cocorita-cosa-serve-prima-settimana` · Arriva una cocorita: cosa serve davvero la prima settimana (lista della spesa, ambientamento, errori da evitare)
 
 ### Settimana 5
 - [ ] S · ricerche-scuola · `rondone` · Il rondone: ricerca per la scuola primaria (Apus apus; dorme in volo; non si posa mai a terra; differenza con rondine)
