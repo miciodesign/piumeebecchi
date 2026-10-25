@@ -3,8 +3,9 @@
 Uso: python3 build.py  -> genera la cartella dist/
 I contenuti stanno in content/<categoria>/<slug>.html con intestazione JSON tra --- ---.
 """
-import json, re, shutil, html, datetime
+import json, re, shutil, html, datetime, hashlib
 from pathlib import Path
+CSS_V = hashlib.md5((Path(__file__).parent/"src/assets/style.css").read_bytes()).hexdigest()[:8]
 
 ROOT = Path(__file__).parent
 SRC = ROOT / "src"
@@ -71,7 +72,7 @@ def head(title, desc, url, og_type="website", image="og-default.png"):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="/assets/style.css?v={CSS_V}">
 </head>
 <body>
 <a class="skip" href="#main">Vai al contenuto</a>
