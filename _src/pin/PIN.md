@@ -14,11 +14,23 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 
 ## Bacheca: Canarini e cocorite
 
+### cocorita-cosa-serve-prima-settimana
+- **Immagine**: pin/cocorita-cosa-serve-prima-settimana.png
+- **Titolo**: Arriva una cocorita: cosa serve davvero la prima settimana (lista della spesa, ambientamento, errori
+- **Descrizione**: La lista della spesa per accogliere due cocorite, con prezzi indicativi; come preparare la gabbia prima del loro arrivo; cosa fare e non fare nei primi sette giorni; i segnali che qualcosa non va. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/uccelli-in-casa/cocorita-cosa-serve-prima-settimana/
+
 ### canarino-cocorita-pappagallino-guida
 - **Immagine**: pin/canarino-cocorita-pappagallino-guida.png
 - **Titolo**: Canarino, cocorita o pappagallino: quale scegliere e cosa serve davvero
 - **Descrizione**: Confronto tra canarino, cocorita, diamante mandarino e inseparabile: carattere, rumore, durata di vita, costi. Gabbia, cibo, pulizia e quando serve il veterinario. #uccelli #birdwatching #natura #bambini
 - **Link**: https://www.piumeebecchi.it/uccelli-in-casa/canarino-cocorita-pappagallino-guida/
+
+### uccelli-da-appartamento-quali-scegliere
+- **Immagine**: pin/uccelli-da-appartamento-quali-scegliere.png
+- **Titolo**: Quali uccelli si possono tenere in appartamento (e quali no): canarino, cocorita, diamante mandarino
+- **Descrizione**: Gli uccelli adatti a un appartamento e quelli da evitare: spazio, rumore per i vicini, tempo da dedicare, costi veri. Perché solo specie domestiche allevate, mai selvatici, e cosa chiedere prima di dire sì ai bambini. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/uccelli-in-casa/uccelli-da-appartamento-quali-scegliere/
 
 
 ## Bacheca: Dove vedere gli uccelli in Italia
@@ -64,6 +76,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Titolo**: Il merlo: ricerca per la scuola primaria
 - **Descrizione**: Scheda sul merlo (Turdus merula) per bambini di 3ª, 4ª e 5ª: com'è fatto, il canto, dove vive, cosa mangia, il nido, i giorni della merla, curiosità e domande di ripasso. #uccelli #bambini #scuolaprimaria #ricercascuola
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/merlo/
+
+### pappagallo
+- **Immagine**: pin/pappagallo.png
+- **Titolo**: Il pappagallo: ricerca per la scuola primaria
+- **Descrizione**: Scheda sui pappagalli (Psittaciformi) per bambini di 3ª, 4ª e 5ª: com'è fatto, dove vive, cosa mangia, perché "parla", ara, cacatua e cocorita, il pericolo del commercio, curiosità e domande di ripasso. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/pappagallo/
 
 ### passero
 - **Immagine**: pin/passero.png

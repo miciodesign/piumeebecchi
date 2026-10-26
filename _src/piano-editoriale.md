@@ -13,9 +13,9 @@ Ritmo: **3 articoli a settimana** (di norma 2 schede-ricerca + 1 guida), pubblic
 ## Coda (spuntare con [x] e data quando pubblicato)
 
 ### Priorità (dai dati Search Console del 25 ott: la gente cerca "uccelli per casa / da appartamento"; fare PRIMA queste tre, poi proseguire con le settimane)
-- [ ] G · uccelli-in-casa · `uccelli-da-appartamento-quali-scegliere` · Quali uccelli si possono tenere in appartamento (e quali no): canarino, cocorita, diamante mandarino, inseparabile; spazio, rumore, tempo richiesto, costi; solo specie domestiche allevate (mai selvatici); linkare la guida-pilastro canarino-cocorita-pappagallino-guida
-- [ ] G · uccelli-in-casa · `cocorita-cosa-serve-prima-settimana` · Arriva una cocorita: cosa serve davvero la prima settimana (lista della spesa, ambientamento, errori da evitare)
-- [ ] S · ricerche-scuola · `pappagallo` · Il pappagallo: ricerca per la scuola primaria (gli Psittaciformi in generale; perché "parla"; ara, cacatua, cocorita; foreste tropicali; in pericolo per il commercio)
+- [x] 2026-10-26 · G · uccelli-in-casa · `uccelli-da-appartamento-quali-scegliere` · Quali uccelli si possono tenere in appartamento (e quali no): canarino, cocorita, diamante mandarino, inseparabile; spazio, rumore, tempo richiesto, costi; solo specie domestiche allevate (mai selvatici); linkare la guida-pilastro canarino-cocorita-pappagallino-guida
+- [x] 2026-10-26 · G · uccelli-in-casa · `cocorita-cosa-serve-prima-settimana` · Arriva una cocorita: cosa serve davvero la prima settimana (lista della spesa, ambientamento, errori da evitare)
+- [x] 2026-10-26 · S · ricerche-scuola · `pappagallo` · Il pappagallo: ricerca per la scuola primaria (gli Psittaciformi in generale; perché "parla"; ara, cacatua, cocorita; foreste tropicali; in pericolo per il commercio)
 
 ### Settimana 1
 - [x] 2026-10-19 · S · ricerche-scuola · `cinciallegra` · La cinciallegra: ricerca per la scuola primaria (Parus major; prima ospite delle mangiatoie; casetta-nido con foro 32 mm)

@@ -58,5 +58,10 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Manchot_empereur_-_Emperor_Penguin_-_Aptenodytes_forsteri.jpg/960px-Manchot_empereur_-_Emperor_Penguin_-_Aptenodytes_forsteri.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Manchot_empereur_-_Emperor_Penguin_-_Aptenodytes_forsteri.jpg",
   "caption": "Un pinguino imperatore in Antartide"
+ },
+ "pappagallo": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Scarlet_macaws_%28Ara_macao_macao%29_pair_Yasuni.jpg/960px-Scarlet_macaws_%28Ara_macao_macao%29_pair_Yasuni.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Scarlet_macaws_%28Ara_macao_macao%29_pair_Yasuni.jpg",
+  "caption": "Una coppia di are scarlatte nella foresta amazzonica"
  }
 }
