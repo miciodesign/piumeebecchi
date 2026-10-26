@@ -5,6 +5,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 
 ## Bacheca: Birdwatching con i bambini
 
+### calendario-uccelli-italia-mese-per-mese
+- **Immagine**: pin/calendario-uccelli-italia-mese-per-mese.png
+- **Titolo**: Calendario degli uccelli in Italia: cosa vedere mese per mese
+- **Descrizione**: Quali uccelli osservare in ogni mese dell'anno in Italia: arrivi, partenze, canti, nidi. Una guida pratica per famiglie e classi, con cosa fare ogni mese. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/birdwatching-famiglie/calendario-uccelli-italia-mese-per-mese/
+
 ### binocolo-birdwatching-bambini-famiglie
 - **Immagine**: pin/binocolo-birdwatching-bambini-famiglie.png
 - **Titolo**: Il primo binocolo per il birdwatching con i bambini: come sceglierlo senza spendere troppo
