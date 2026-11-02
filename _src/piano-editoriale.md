@@ -24,11 +24,11 @@ Ritmo: **3 articoli a settimana** (di norma 2 schede-ricerca + 1 guida), pubblic
 
 ### Settimana 2
 - [x] 2026-10-23 S · ricerche-scuola · `pinguino` · Il pinguino imperatore: ricerca per la scuola primaria (Aptenodytes forsteri; non vola, nuota; l'uovo sulle zampe del padre)
-- [ ] G · libri-giochi · `giochi-educativi-uccelli-bambini` · Giochi e kit educativi sugli uccelli per bambini: memory, puzzle, casetta da costruire, bingo del birdwatching
+- [x] 2026-11-02 · G · libri-giochi · `giochi-educativi-uccelli-bambini` · Giochi e kit educativi sugli uccelli per bambini: memory, puzzle, casetta da costruire, bingo del birdwatching
 
 ### Settimana 3
-- [ ] S · ricerche-scuola · `gabbiano` · Il gabbiano reale: ricerca per la scuola primaria (Larus michahellis; città e mare; onnivoro; colonie)
-- [ ] S · ricerche-scuola · `airone-cenerino` · L'airone cenerino: ricerca per la scuola primaria (Ardea cinerea; pesca immobile; garzaie; risaie del Piemonte)
+- [x] 2026-11-02 · S · ricerche-scuola · `gabbiano` · Il gabbiano reale: ricerca per la scuola primaria (Larus michahellis; città e mare; onnivoro; colonie)
+- [x] 2026-11-02 · S · ricerche-scuola · `airone-cenerino` · L'airone cenerino: ricerca per la scuola primaria (Ardea cinerea; pesca immobile; garzaie; risaie del Piemonte)
 - [ ] G · birdwatching-famiglie · `riconoscere-uccelli-giardino-guida-facile` · Riconoscere gli uccelli del giardino: le 15 specie più comuni in Italia, in una pagina (con tabella colore/taglia/dove/quando)
 
 ### Settimana 4

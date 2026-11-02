@@ -63,5 +63,15 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Scarlet_macaws_%28Ara_macao_macao%29_pair_Yasuni.jpg/960px-Scarlet_macaws_%28Ara_macao_macao%29_pair_Yasuni.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Scarlet_macaws_%28Ara_macao_macao%29_pair_Yasuni.jpg",
   "caption": "Una coppia di are scarlatte nella foresta amazzonica"
+ },
+ "gabbiano": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Larus_michahellis%2C_Kavala%2C_Greece_2013.JPG/960px-Larus_michahellis%2C_Kavala%2C_Greece_2013.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Larus_michahellis%2C_Kavala%2C_Greece_2013.JPG",
+  "caption": "Un gabbiano reale adulto: becco giallo con la macchia rossa e occhio chiaro"
+ },
+ "airone-cenerino": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ardea_cinerea_qtl1.jpg/960px-Ardea_cinerea_qtl1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_qtl1.jpg",
+  "caption": "Un airone cenerino a caccia, immobile sull'acqua"
  }
 }

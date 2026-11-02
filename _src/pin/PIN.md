@@ -50,6 +50,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 
 ## Bacheca: Libri sugli uccelli per bambini
 
+### giochi-educativi-uccelli-bambini
+- **Immagine**: pin/giochi-educativi-uccelli-bambini.png
+- **Titolo**: Giochi e kit educativi sugli uccelli per bambini: memory, puzzle, casetta da costruire e bingo del b
+- **Descrizione**: I giochi sugli uccelli che insegnano davvero, per età: memory e tombola dai 3 anni, puzzle, casetta-nido da costruire, carte, Wingspan per i più grandi. Con tabella, prezzi indicativi e il bingo gratis da stampare. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/libri-giochi/giochi-educativi-uccelli-bambini/
+
 ### libri-uccelli-bambini
 - **Immagine**: pin/libri-uccelli-bambini.png
 - **Titolo**: I libri sugli uccelli per bambini che valgono davvero: atlanti, albi illustrati e guide per età
@@ -76,6 +82,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Titolo**: Il fenicottero rosa: ricerca per la scuola primaria
 - **Descrizione**: Scheda sul fenicottero rosa (Phoenicopterus roseus) per la primaria: perché è rosa, come mangia a testa in giù, il nido di fango, dove vederlo in Italia tra Sardegna, Delta del Po e saline. #uccelli #bambini #scuolaprimaria #ricercascuola
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/fenicottero/
+
+### gabbiano
+- **Immagine**: pin/gabbiano.png
+- **Titolo**: Il gabbiano reale: ricerca per la scuola primaria
+- **Descrizione**: Scheda sul gabbiano reale (Larus michahellis) per bambini di 3ª, 4ª e 5ª: com'è fatto, perché vive anche in città, cosa mangia, le colonie, la macchia rossa sul becco, curiosità e domande di ripasso. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/gabbiano/
 
 ### gufo
 - **Immagine**: pin/gufo.png
@@ -112,6 +124,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Titolo**: Il pinguino imperatore: ricerca per la scuola primaria
 - **Descrizione**: Scheda sul pinguino imperatore (Aptenodytes forsteri) per bambini di 3ª, 4ª e 5ª: com'è fatto, dove vive, cosa mangia, l'uovo sulle zampe del papà, curiosità e domande. #uccelli #bambini #scuolaprimaria #ricercascuola
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/pinguino/
+
+### airone-cenerino
+- **Immagine**: pin/airone-cenerino.png
+- **Titolo**: L'airone cenerino: ricerca per la scuola primaria
+- **Descrizione**: Scheda sull'airone cenerino (Ardea cinerea) per bambini di 3ª, 4ª e 5ª: com'è fatto, la pesca immobile, il collo a S, le garzaie, le risaie del Piemonte, cosa mangia, curiosità e domande di ripasso. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/airone-cenerino/
 
 ### aquila-reale
 - **Immagine**: pin/aquila-reale.png
