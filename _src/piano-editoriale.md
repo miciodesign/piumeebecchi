@@ -31,6 +31,13 @@ Ritmo: **3 articoli a settimana** (di norma 2 schede-ricerca + 1 guida), pubblic
 - [x] 2026-11-02 · S · ricerche-scuola · `airone-cenerino` · L'airone cenerino: ricerca per la scuola primaria (Ardea cinerea; pesca immobile; garzaie; risaie del Piemonte)
 - [ ] G · birdwatching-famiglie · `riconoscere-uccelli-giardino-guida-facile` · Riconoscere gli uccelli del giardino: le 15 specie più comuni in Italia, in una pagina (con tabella colore/taglia/dove/quando)
 
+### Aggiunte dal 2 nov (spunti SEO: uccelli domestici e schede più cercate)
+- [ ] G · uccelli-in-casa · `calopsite-cura-e-carattere` · La calopsite: carattere, spazio, alimentazione, costi (specie domestica allevata; niente consigli veterinari)
+- [ ] G · uccelli-in-casa · `diamante-mandarino-guida` · Il diamante mandarino: come si tiene, in coppia o da solo, gabbia e cibo
+- [ ] G · uccelli-in-casa · `gabbia-per-cocorite-canarini-come-scegliere` · Gabbia per cocorite e canarini: misure, forma, accessori, dove metterla
+- [ ] S · ricerche-scuola · `martin-pescatore` · Il martin pescatore: ricerca per la scuola primaria
+- [ ] S · ricerche-scuola · `gazza` · La gazza: ricerca per la scuola primaria
+
 ### Settimana 4
 - [ ] S · ricerche-scuola · `colibri` · Il colibrì: ricerca per la scuola primaria (Trochilidae; l'uccello più piccolo; batte le ali 50 volte al secondo; vola all'indietro; Americhe)
 - [ ] S · ricerche-scuola · `gheppio` · Il gheppio: ricerca per la scuola primaria (Falco tinnunculus; lo "spirito santo"; caccia in città; nido su edifici)
