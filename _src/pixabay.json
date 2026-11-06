@@ -1,0 +1,3 @@
+{
+  "_istruzioni": "Aggiungi voci tipo \"slug-articolo\": {\"q\": \"ricerca in inglese\", \"id\": 12345}. Con \"id\" scarica quella foto precisa, altrimenti la prima della ricerca. Poi lancia l'azione 'Foto Pixabay' su GitHub."
+}
