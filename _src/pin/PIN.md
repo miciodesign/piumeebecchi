@@ -26,6 +26,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Descrizione**: La lista della spesa per accogliere due cocorite, con prezzi indicativi; come preparare la gabbia prima del loro arrivo; cosa fare e non fare nei primi sette giorni; i segnali che qualcosa non va. #uccelli #birdwatching #natura #bambini
 - **Link**: https://www.piumeebecchi.it/uccelli-in-casa/cocorita-cosa-serve-prima-settimana/
 
+### calopsite-cura-e-carattere
+- **Immagine**: pin/calopsite-cura-e-carattere.png
+- **Titolo**: La calopsite: carattere, spazio, alimentazione e costi (guida per chi vuole prenderla)
+- **Descrizione**: Come vive una calopsite in casa: carattere e rumore, gabbia e volo, cosa mangia, quanto costa mantenerla davvero e quanto tempo richiede. Con la lista della spesa e le domande da farsi prima di scegliere. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/uccelli-in-casa/calopsite-cura-e-carattere/
+
 ### uccelli-da-appartamento-quali-scegliere
 - **Immagine**: pin/uccelli-da-appartamento-quali-scegliere.png
 - **Titolo**: Quali uccelli si possono tenere in appartamento (e quali no): canarino, cocorita, diamante mandarino
@@ -94,6 +100,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Titolo**: Il gufo comune: ricerca per la scuola primaria
 - **Descrizione**: Scheda sul gufo comune (Asio otus) per bambini di 3ª, 4ª e 5ª: com'è fatto, dove vive, la caccia di notte, il nido, le differenze con civetta e barbagianni, curiosità e domande. #uccelli #bambini #scuolaprimaria #ricercascuola
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/gufo/
+
+### martin-pescatore
+- **Immagine**: pin/martin-pescatore.png
+- **Titolo**: Il martin pescatore: ricerca per la scuola primaria
+- **Descrizione**: Scheda sul martin pescatore (Alcedo atthis) per la scuola primaria: com'è fatto, dove vive, come pesca, il nido in una galleria sulla riva, curiosità, glossario e domande per ripassare. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/martin-pescatore/
 
 ### merlo
 - **Immagine**: pin/merlo.png
