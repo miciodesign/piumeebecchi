@@ -17,6 +17,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Descrizione**: Guida pratica al binocolo per famiglie: 8x32, 8x42 o 10x42, peso, occhiali, fasce di prezzo con modelli reali e come usarlo con i bambini senza annoiarli. #uccelli #birdwatching #natura #bambini
 - **Link**: https://www.piumeebecchi.it/birdwatching-famiglie/binocolo-birdwatching-bambini-famiglie/
 
+### riconoscere-uccelli-giardino-guida-facile
+- **Immagine**: pin/riconoscere-uccelli-giardino-guida-facile.png
+- **Titolo**: Riconoscere gli uccelli del giardino: le 15 specie più comuni in Italia, in una pagina
+- **Descrizione**: Le 15 specie che vedi davvero in giardino, sul balcone e al parco, con una tabella colore, taglia, dove e quando; i tre confronti che ingannano tutti e come cominciare con i bambini senza stancarli. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/birdwatching-famiglie/riconoscere-uccelli-giardino-guida-facile/
+
 
 ## Bacheca: Canarini e cocorite
 
@@ -25,6 +31,18 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Titolo**: Arriva una cocorita: cosa serve davvero la prima settimana (lista della spesa, ambientamento, errori
 - **Descrizione**: La lista della spesa per accogliere due cocorite, con prezzi indicativi; come preparare la gabbia prima del loro arrivo; cosa fare e non fare nei primi sette giorni; i segnali che qualcosa non va. #uccelli #birdwatching #natura #bambini
 - **Link**: https://www.piumeebecchi.it/uccelli-in-casa/cocorita-cosa-serve-prima-settimana/
+
+### gabbia-per-cocorite-canarini-come-scegliere
+- **Immagine**: pin/gabbia-per-cocorite-canarini-come-scegliere.png
+- **Titolo**: Gabbia per cocorite e canarini: misure, forma, accessori, dove metterla
+- **Descrizione**: Come scegliere la gabbia giusta per cocorite, canarini e piccoli esotici: misure minime per specie, perché larga e non alta, distanza tra le sbarre, materiali, fondo e porte, i modelli reali con prezzi indicativi, gli accessori che servono e dove sistemarla in casa. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/uccelli-in-casa/gabbia-per-cocorite-canarini-come-scegliere/
+
+### diamante-mandarino-guida
+- **Immagine**: pin/diamante-mandarino-guida.png
+- **Titolo**: Il diamante mandarino: come si tiene, in coppia o da solo, gabbia e cibo
+- **Descrizione**: Guida al diamante mandarino in casa: carattere e rumore, perché non va mai tenuto da solo, come distinguere maschio e femmina, gabbia giusta, cosa mangia, il nido (e quando non metterlo), costi veri e cosa possono fare i bambini. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/uccelli-in-casa/diamante-mandarino-guida/
 
 ### calopsite-cura-e-carattere
 - **Immagine**: pin/calopsite-cura-e-carattere.png
