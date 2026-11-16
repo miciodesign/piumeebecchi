@@ -32,6 +32,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Descrizione**: La lista della spesa per accogliere due cocorite, con prezzi indicativi; come preparare la gabbia prima del loro arrivo; cosa fare e non fare nei primi sette giorni; i segnali che qualcosa non va. #uccelli #birdwatching #natura #bambini
 - **Link**: https://www.piumeebecchi.it/uccelli-in-casa/cocorita-cosa-serve-prima-settimana/
 
+### canarino-cocorita-pappagallino-guida
+- **Immagine**: pin/canarino-cocorita-pappagallino-guida.png
+- **Titolo**: Canarino, cocorita o pappagallino: quale scegliere? Costi, gabbia e carattere a confronto
+- **Descrizione**: Quale uccello domestico scegliere per la tua famiglia? Confronto tra canarino, cocorita, diamante mandarino e inseparabile: carattere, rumore, costi, gabbia giusta e cibo. #uccelli #birdwatching #natura #bambini
+- **Link**: https://www.piumeebecchi.it/uccelli-in-casa/canarino-cocorita-pappagallino-guida/
+
 ### gabbia-per-cocorite-canarini-come-scegliere
 - **Immagine**: pin/gabbia-per-cocorite-canarini-come-scegliere.png
 - **Titolo**: Gabbia per cocorite e canarini: misure, forma, accessori, dove metterla
@@ -55,12 +61,6 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Titolo**: Quali uccelli si possono tenere in appartamento (e quali no): canarino, cocorita, diamante mandarino
 - **Descrizione**: Gli uccelli adatti a un appartamento e quelli da evitare: spazio, rumore per i vicini, tempo da dedicare, costi veri. Perché solo specie domestiche allevate, mai selvatici, e cosa chiedere prima di dire sì ai bambini. #uccelli #birdwatching #natura #bambini
 - **Link**: https://www.piumeebecchi.it/uccelli-in-casa/uccelli-da-appartamento-quali-scegliere/
-
-### canarino-cocorita-pappagallino-guida
-- **Immagine**: pin/canarino-cocorita-pappagallino-guida.png
-- **Titolo**: Uccelli domestici: canarino, cocorita o pappagallino?
-- **Descrizione**: Quale uccello domestico scegliere? Confronto tra canarino, cocorita, diamante mandarino e inseparabile: carattere, rumore, costi, gabbia e cibo. #uccelli #birdwatching #natura #bambini
-- **Link**: https://www.piumeebecchi.it/uccelli-in-casa/canarino-cocorita-pappagallino-guida/
 
 
 ## Bacheca: Dove vedere gli uccelli in Italia
@@ -101,6 +101,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Descrizione**: Lo schema di una ricerca sugli uccelli per la primaria, le fonti affidabili, la lunghezza giusta per classe, il cartellone e gli errori da evitare. Con le schede pronte del sito. #uccelli #birdwatching #natura #bambini
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/come-fare-ricerca-uccelli/
 
+### colibri
+- **Immagine**: pin/colibri.png
+- **Titolo**: Il colibrì: ricerca per la scuola primaria
+- **Descrizione**: Scheda sul colibrì (famiglia Trochilidae) per la scuola primaria: l'uccello più piccolo del mondo, come fa a volare all'indietro, cosa mangia, il nido grande come una noce, il viaggio, curiosità, glossario e domande per ripassare. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/colibri/
+
 ### fenicottero
 - **Immagine**: pin/fenicottero.png
 - **Titolo**: Il fenicottero rosa: ricerca per la scuola primaria
@@ -113,10 +119,16 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Descrizione**: Scheda sul gabbiano reale (Larus michahellis) per bambini di 3ª, 4ª e 5ª: com'è fatto, perché vive anche in città, cosa mangia, le colonie, la macchia rossa sul becco, curiosità e domande di ripasso. #uccelli #bambini #scuolaprimaria #ricercascuola
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/gabbiano/
 
+### gheppio
+- **Immagine**: pin/gheppio.png
+- **Titolo**: Il gheppio: ricerca per la scuola primaria
+- **Descrizione**: Scheda sul gheppio (Falco tinnunculus) per la scuola primaria: il piccolo falco che resta fermo in aria a "fare lo Spirito Santo", com'è fatto, dove vive anche in città, cosa mangia, il nido sui palazzi, curiosità, glossario e domande per ripassare. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/gheppio/
+
 ### gufo
 - **Immagine**: pin/gufo.png
-- **Titolo**: Il gufo comune: ricerca per la scuola primaria
-- **Descrizione**: Scheda sul gufo comune (Asio otus) per bambini di 3ª, 4ª e 5ª: com'è fatto, dove vive, la caccia di notte, il nido, le differenze con civetta e barbagianni, curiosità e domande. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Titolo**: Il gufo comune: scheda e ricerca per la scuola primaria (Asio otus)
+- **Descrizione**: Gufo comune: com'è fatto, dove vive, cosa mangia, perché ha i ciuffi, come si distingue da civetta e barbagianni. Scheda con glossario e domande, pronta per la ricerca di scuola. #uccelli #bambini #scuolaprimaria #ricercascuola
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/gufo/
 
 ### martin-pescatore
@@ -184,6 +196,12 @@ Per ogni Pin: carica l'immagine `pin/<slug>.png`, incolla titolo, descrizione e 
 - **Titolo**: La civetta: ricerca per la scuola primaria
 - **Descrizione**: Scheda sulla civetta (Athene noctua) per bambini di 3ª, 4ª e 5ª: com'è fatta, dove vive, cosa mangia, il nido, le differenze con gufo e barbagianni, perché era il simbolo di Atena, curiosità e domande. #uccelli #bambini #scuolaprimaria #ricercascuola
 - **Link**: https://www.piumeebecchi.it/ricerche-scuola/civetta/
+
+### gazza
+- **Immagine**: pin/gazza.png
+- **Titolo**: La gazza: ricerca per la scuola primaria
+- **Descrizione**: Scheda sulla gazza (Pica pica) per la scuola primaria: com'è fatta, dove vive, cosa mangia, il nido con il tetto, perché è così intelligente, la leggenda della gazza ladra, glossario e domande per ripassare. #uccelli #bambini #scuolaprimaria #ricercascuola
+- **Link**: https://www.piumeebecchi.it/ricerche-scuola/gazza/
 
 ### migrazione-uccelli
 - **Immagine**: pin/migrazione-uccelli.png

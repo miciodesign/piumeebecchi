@@ -36,11 +36,11 @@ Ritmo: **3 articoli a settimana** (di norma 2 schede-ricerca + 1 guida), pubblic
 - [x] 2026-11-09 · G · uccelli-in-casa · `diamante-mandarino-guida` · Il diamante mandarino: come si tiene, in coppia o da solo, gabbia e cibo
 - [x] 2026-11-09 · G · uccelli-in-casa · `gabbia-per-cocorite-canarini-come-scegliere` · Gabbia per cocorite e canarini: misure, forma, accessori, dove metterla
 - [x] 2026-11-06 S · ricerche-scuola · `martin-pescatore` · Il martin pescatore: ricerca per la scuola primaria
-- [ ] S · ricerche-scuola · `gazza` · La gazza: ricerca per la scuola primaria
+- [x] 2026-11-16 · S · ricerche-scuola · `gazza` · La gazza: ricerca per la scuola primaria
 
 ### Settimana 4
-- [ ] S · ricerche-scuola · `colibri` · Il colibrì: ricerca per la scuola primaria (Trochilidae; l'uccello più piccolo; batte le ali 50 volte al secondo; vola all'indietro; Americhe)
-- [ ] S · ricerche-scuola · `gheppio` · Il gheppio: ricerca per la scuola primaria (Falco tinnunculus; lo "spirito santo"; caccia in città; nido su edifici)
+- [x] 2026-11-16 · S · ricerche-scuola · `colibri` · Il colibrì: ricerca per la scuola primaria (Trochilidae; l'uccello più piccolo; batte le ali 50 volte al secondo; vola all'indietro; Americhe)
+- [x] 2026-11-16 · S · ricerche-scuola · `gheppio` · Il gheppio: ricerca per la scuola primaria (Falco tinnunculus; lo "spirito santo"; caccia in città; nido su edifici)
 
 ### Settimana 5
 - [ ] S · ricerche-scuola · `rondone` · Il rondone: ricerca per la scuola primaria (Apus apus; dorme in volo; non si posa mai a terra; differenza con rondine)
