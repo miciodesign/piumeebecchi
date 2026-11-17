@@ -119,7 +119,7 @@ def footer():
 </html>
 """
 
-AFF_NOTE = '<p class="aff-note">Alcuni link in questa pagina sono di affiliazione: se compri tramite questi link riceviamo una piccola commissione, senza costi per te. <a href="/affiliazione/">Come funziona</a>.</p>'
+AFF_NOTE = '<p class="aff-note">Alcuni link in questa pagina sono di affiliazione: se compri tramite questi link riceviamo una piccola commissione, senza costi per te. In qualità di Affiliato Amazon, ricevo un guadagno dagli acquisti idonei. <a href="/affiliazione/">Come funziona</a>.</p>'
 
 # ---------- content loading ----------
 PHOTOS = json.loads((ROOT/"photos.json").read_text(encoding="utf-8")) if (ROOT/"photos.json").exists() else {}
@@ -393,7 +393,7 @@ def build_static(arts):
 </ul>
 <h2>Prezzi</h2>
 <p>I prezzi indicati sono quelli visti al momento della scrittura e li ricontrolliamo ogni tre mesi. Il prezzo vero è sempre quello sulla pagina del negozio.</p>
-<p>In qualità di Affiliato Amazon, riceviamo un guadagno dagli acquisti idonei.</p>
+<p>In qualità di Affiliato Amazon, ricevo un guadagno dagli acquisti idonei.</p>
 </div>"""),
         "/privacy/": ("Privacy e cookie", "Informativa privacy e cookie di piumeebecchi.it.", f"""
 <h1>Privacy e cookie</h1>
